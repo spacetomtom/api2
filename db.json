@@ -1,10 +1,12 @@
 {
     "data": [
+       "data": [
         {
             "name":"toto","label":"totolabel","id":1
         },
         {
             "name":"tata","label":"tatalabel","id":2
         }
+    ]
     ]
 }
